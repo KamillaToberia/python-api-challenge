@@ -10,7 +10,7 @@ API Challenge with all files and images for the analysis, with the analysis add 
 - Read and analysis the CSV file.
 - Create a map that dysplays a point for every city in the Data Frame.
 
-![output](1.png)
+![image](https://github.com/KamillaToberia/python-api-challenge/assets/145527812/5b40f80d-7592-4fe3-9d3c-97ee35392ad8)
 
 - Filter the data for the temperature criteria and drop the null values.
 - Use the Geoapify API to find the first hotel located witih 10,000 meters.
